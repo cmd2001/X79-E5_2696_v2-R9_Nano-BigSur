@@ -7,7 +7,7 @@ Big Sur EFI(Opencore 0.6.8) for X79 E5 2696 v2 R9 Nano
 
 * CPU: Intel Xeon E5 2696 v2
 * Graphics Card: AMD Radeon FURY R9 Nano
-* Motherboard: Asrock X79(科脑X99)
+* Motherboard: X79(科脑X99)
 * Wi-Fi & Bluetooth: BCM
 * Network Adapter: Realtek
 * Audio Card: Realtek ALC662
